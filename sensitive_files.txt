@@ -1,14 +1,1 @@
-https://bugcrowd.com/robots.txt
-http://bugcrowd.com/robots.txt
-https://www.bugcrowd.com/robots.txt
-https://bugcrowd.com/vulnerability-rating-taxonomy/1.4.json
-https://blog.bugcrowd.com/robots.txt
-http://docs.bugcrowd.com/robots.txt
-https://docs.bugcrowd.com/robots.txt
-http://email.bugcrowd.com/robots.txt
-https://forum.bugcrowd.com/robots.txt
-http://forum.bugcrowd.com/robots.txt
-https://pages.bugcrowd.com/robots.txt
-http://researcherdocs.bugcrowd.com/robots.txt
-https://tracker.bugcrowd.com/robots.txt
-https://ww2.bugcrowd.com/robots.txt
+
