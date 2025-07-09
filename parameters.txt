@@ -1,5 +1,1 @@
-https://bugcrowd.com/jet?utm_source=the-list&utm_medium=list-link&utm_campaign=jet
-https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102?page=2
-https://pages.bugcrowd.com/2016-state-of-bug-bounty-report?utm_campaign=20160608%20-%20State%20of%20Bug%20Bounty%202016&utm_content=Lifecycle%20Post&utm_source=Blog
-https://pages.bugcrowd.com/2016-state-of-bug-bounty-report?utm_campaign=20160608%20-%20State%20of%20Bug%20Bounty%202016&utm_medium=Resources&utm_source=Website
-https://pages.bugcrowd.com/hubfs/2017%20Spring%20Release%20Notes.pdf?t=1500313009204
+
