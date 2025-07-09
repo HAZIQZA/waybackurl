@@ -1,10 +1,1 @@
-blog.bugcrowd.com
-bugcrowd.com
-docs.bugcrowd.com
-email.bugcrowd.com
-forum.bugcrowd.com
-pages.bugcrowd.com
-researcherdocs.bugcrowd.com
-tracker.bugcrowd.com
-ww2.bugcrowd.com
-www.bugcrowd.com
+
